@@ -29,3 +29,7 @@ The outer loop, representing the first of our two discrete PD controllers in our
 
 The inner loop, representing the second of our two discrete PD controllers in our cascading PD control system for the automatic steering control system.                   
 <img src="https://github.com/dhipatel21/Cruise-Control/blob/cc176974310d9b9b154a7a48cffe3c63b319f5a4/Inner_PD.png" alt="drawing" width="400"/>
+
+
+## Simulink and Parameters Files
+Currently unable to keep the Simulink and parameters files public, so if interested please message me.
